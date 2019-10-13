@@ -17,7 +17,7 @@
       <pubDate>Sun, 13 Oct 2019 13:45:56 +0800</pubDate>
       
       <guid>http://example.org/posts/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-github-pages-%E9%A2%84%E8%A7%88-html/</guid>
-      <description>使用 GitHub Pages 预览 HTML  在现有目录中创建本地仓库
+      <description> 使用 GitHub Pages 预览 HTML  在现有目录中创建本地仓库
 git init  将有改动或新增的文件添加到暂存区中
 git add .  将暂存区中的改动提交到本地仓库
 git commit -m &#39;message&#39; 或 git commit -v  创建远程仓库
@@ -28,7 +28,7 @@ git push -u origin master  推送成功后刷新远程仓库的页面后，点�
  将页面下拉到GitHub Pages部分，将None改为master branch
  之后页面会刷新，再次将页面下拉到GitHub Pages部分，这次会看到多了一个链接，点击链接即可看到想要预览的html页面
 如果发现页面不能正常访问，可以在浏览器的地址后面补上想要看到的html文件名称即可
-  额外补充</description>
+  </description>
     </item>
     
     <item>
